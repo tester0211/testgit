@@ -1,1 +1,1 @@
-ngay dau tien di hoc
+Chang muon hoc git
